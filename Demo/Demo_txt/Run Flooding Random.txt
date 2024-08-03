@@ -1,0 +1,3 @@
+@echo off
+start "Ranfloof Client" "C:\Program Files\Ranflood\ranflood.exe" flood start RANDOM "C:/Users/thanh/Pictures"
+
