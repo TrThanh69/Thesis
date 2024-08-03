@@ -1,3 +1,9 @@
+# Members
+| Member | MSSV |  
+| --- | ---|
+| Tran Thuy Anh |  20521085 |
+| Truong Dinh Trong Thanh | 20520766 | 
+
 # Ranflood
 
 <img src="icon.png?raw=true" width="33%">
