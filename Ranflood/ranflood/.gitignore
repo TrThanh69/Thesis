@@ -1,0 +1,6 @@
+.gradle
+.DS_Store
+.idea/
+build/
+.jqwik-database
+*.cache
