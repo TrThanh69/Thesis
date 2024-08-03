@@ -65,15 +65,9 @@ if the `filechecker` cannot find the original copy of the file of the user, but 
 
 ## To Do
 
-- [ ] Export the following components in separate repositories
-  - [ ] [FileChecker](https://github.com/Flooding-against-Ransomware/ranflood/tree/master/src/filechecker/java/org/ranflood/filechecker) and [analyser](https://github.com/Flooding-against-Ransomware/ranflood/tree/master/result_analyser)
-  - [ ] Rig [management](https://github.com/Flooding-against-Ransomware/ranflood/tree/master/management-scripts) and [testing](https://github.com/Flooding-against-Ransomware/ranflood/tree/master/scripts) scripts
-  - [ ] [Ransomware Samples](resources/ransomwares)
+## Repository
 
-
-## Cite this repository
-
-If you use this software in your work, please cite it using the following metadata.
+"If you use this software in your work, please cite it using the following metadata."
 
 ```
 @article{BGMMOP23,
